@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Web Page Source Code</string>
+
+    <string-array name="jenis_sourcecode">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
